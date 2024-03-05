@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Some research and other related projects I've been working on. Everything here is either a personal project or a research project unrelated to my lab.
+description: Some research and other related projects I've been working on. Everything here is my personal project.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
@@ -16,43 +16,30 @@ horizontal: false
 <h4>AI/ML</h4>
 <ul>
 <li> 
-        <a href="https://alexzhang13.github.io/assets/pdfs/Reward_Shaping_LLM.pdf">A Simple Framework for Intrinsic Reward-Shaping for Reinforcement Learning using LLM Feedback</a> <a href="https://github.com/alexzhang13/reward-shaping-rl"><i class="fa fa-github" style="font-size:18px"></i></a>
+        <a href="https://github.com/anjaa7/Graph-Neural-Networks-for-Molecular-Propery-Prediction---JAX/blob/main/GraduationProject.pdf"</a> Graph-Neural-Networks-for-Molecular-Propery-Prediction <a href=""><i class="fa fa-github" style="font-size:18px"></i></a>
 </li>
 <li> 
-        <a href="https://alexzhang13.github.io/assets/pdfs/Pruning_KMatrix_AZ.pdf">Pruning Methods with Sparse Factorizations of Neural Networks</a> <a href="https://github.com/alexzhang13/COS598D-Pruning"><i class="fa fa-github" style="font-size:18px"></i></a>
+        <a href=""></a> <a href=""><i class="fa fa-github" style="font-size:18px"></i></a>
 </li>
 <li> 
-        <a href="https://arxiv.org/abs/2311.11427">Appearance Codes using Joint Embedding Learning of Multiple Modalities</a> <a href="https://github.com/edogariu/alex-zhang"><i class="fa fa-github" style="font-size:18px"></i></a>
+        <a href=""></a> <a href=""><i class="fa fa-github" style="font-size:18px"></i></a>
 </li>
 <li>
-        <a href="https://alexzhang13.github.io/assets/pdfs/Futures.pdf"> 
+        <a href=""> 
         Predicting Visual Futures with Image Captioning and Pre-Trained Language Models </a>  <a href="https://github.com/alexzhang13/image-gail"><i class="fa fa-github" style="font-size:18px"></i></a>
 </li>
-<li>
-        <a href="https://ieeexplore.ieee.org/abstract/document/9660564"> 
-        Developing a Device-Independent Software for Adaptive Tremor Suppression Orthoses </a>  <a href="https://github.com/alexzhang13/TremorWear_Env"><i class="fa fa-github" style="font-size:18px"></i></a>
-        <p style="margin-left:25px">
-        - Intel International Science and Engineering Fair (ISEF) 2019 - 2nd Place
-        </p>
-</li>
-
 </ul>
+        
 <h4>Math Stuff</h4>
 <ul>
 <li>
-<a href="https://arxiv.org/abs/2302.06769">Transaction Fee Mining and Mechanism Design</a>
+<a href=""></a>
 </li>
 
-<li>
-        <a href="https://alexzhang13.github.io/assets/pdfs/No_Clone_Theorem.pdf">Quantum Information Theory and the No-Cloning Theorem</a>
-        </li>
  </ul>
+ 
 </div>
 
 <h4>Other</h4>
 <ul>
-        <li>
-        <a href="https://alexzhang13.github.io/assets/pdfs/AlexBot.pdf"> 
-        SLAM for Maze Navigation on Raspberry Pi Robot </a>  <a href="https://github.com/alexzhang13/rcj-code"><i class="fa fa-github" style="font-size:18px"></i></a>
-</li>
 </ul>
