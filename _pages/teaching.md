@@ -14,9 +14,6 @@ nav_order: 5
         <br>
     </td>
     <td>
-        <span style="font-weight: bold; color:green">cos217&nbsp;&nbsp;</span>
-    </td>
-    <td>
     </td>
     <td>
         CERN S'Cool LAB style="font-size: 10pt; font-style: italic;"></span>
@@ -25,9 +22,6 @@ nav_order: 5
 <tr>
     <td>
         <br>
-    </td>
-    <td>
-        <span style="font-weight: bold; color:green">cos226&nbsp;&nbsp;</span>
     </td>
     <td>
     </td>
@@ -40,9 +34,6 @@ nav_order: 5
         <br>
     </td>
     <td>
-        <span style="font-weight: bold; color:blue">cos320 &nbsp;&nbsp; </span> 
-    </td>
-    <td>
     </td>
     <td>
         Imperial Global Summer School  <span style="font-size: 10pt; font-style: italic;"></span>
@@ -51,9 +42,6 @@ nav_order: 5
 <tr>
     <td>
         <br>
-    </td>
-    <td>
-        <span style="font-weight: bold; color:blue">cos324 &Dagger;&nbsp;&nbsp; </span> 
     </td>
     <td>
     </td>
@@ -66,9 +54,6 @@ nav_order: 5
         <br>
     </td>
     <td>
-        <span style="font-weight: bold; color:blue">cos326&nbsp;&nbsp;</span>
-    </td>
-    <td>
     </td>
     <td>
         St John's, University of Cambridge: Women in Maths Summer School <span style="font-size: 10pt; font-style: italic;"></span>
@@ -77,9 +62,6 @@ nav_order: 5
 <tr>
     <td>
         <br>
-    </td>
-    <td>
-        <span style="font-weight: bold; color:blue">cos333&nbsp;&nbsp;</span>
     </td>
     <td>
     </td>
@@ -99,18 +81,12 @@ nav_order: 5
         <br>
     </td>
     <td>
-        <span style="font-weight: bold;">mat215&nbsp;&nbsp;</span>
-    </td>
-    <td>
         Philippa Fawcett Internship Programme, funded mathematics research internship at the University of Cambridge. I made a vlog about my stay which you can watch here. I also made a video about how I got my internship here. <span style="font-size: 10pt; font-style: italic;"></span>
     </td>
 </tr>
 <tr>
     <td>
         <br>
-    </td>
-    <td>
-        <span style="font-weight: bold;">mat217&nbsp;&nbsp;</span>
     </td>
     <td>
       European Women in Mathematics <span style="font-size: 10pt; font-style: italic;">taught by Andrew Yarmola, Kenneth Ascher</span>
@@ -121,18 +97,12 @@ nav_order: 5
         <br>
     </td>
     <td>
-        <span style="font-weight: bold; ">mat300&nbsp;&nbsp;</span>
-    </td>
-    <td>
       CERN Summer Student Programme <span style="font-size: 10pt; font-style: italic;">taught by Sun-yung Chang</span>
     </td>
 </tr>
 <tr>
     <td>
         <br>
-    </td>
-    <td>
-        <span style="font-weight: bold;">mat345&nbsp;&nbsp;</span>
     </td>
     <td>
       Oxford Summer Internships <span style="font-size: 10pt; font-style: italic;">taught by Lue Pan</span>
@@ -154,9 +124,6 @@ nav_order: 5
         <br>
     </td>
     <td>
-        <span style="font-weight: bold; ">orf309&nbsp;&nbsp;</span>
-    </td>
-    <td>
        DAAD: RISE Germany <span style="font-size: 10pt; font-style: italic;">taught by Ramon van Handel</span>
     </td>
 </tr>
@@ -165,18 +132,12 @@ nav_order: 5
         <br>
     </td>
     <td>
-        <span style="font-weight: bold; color:red">*orf526&nbsp;&nbsp;</span>
-    </td>
-    <td>
       UCL Summer School <span style="font-size: 10pt; font-style: italic;">taught by Elizabeth Rebrova</span>
     </td>
 </tr>
 <tr>
     <td>
         <br>
-    </td>
-    <td>
-        <span style="font-weight: bold; color:red">*orf550&nbsp;&nbsp;</span>
     </td>
     <td>
         Topics in Probability: Probability in High Dimension <span style="font-size: 10pt; font-style: italic;">taught by Ramon van Handel</span>
