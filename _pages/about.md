@@ -5,7 +5,7 @@ permalink: /
 subtitle: 3th Year Undergrad at Belgrade University
 profile:
   align: right
-  image: 
+  image: avatar.png
   image_circular: false # crops the image to make it circular
   # address: >
   #   <p>555 your office number</p>
@@ -32,3 +32,5 @@ Through inspirational lectures, workshops, and collaborations on social media, I
 I recently started a job at Hudson River Trading (HRT) in New York as an Algorithm Engineer, working with (and learning from) people who are probably much smarter than me. I previously interned at some companies including Airbnb, Citadel Securities, Bloomberg etc, so I have had a sizeable amount of time working on teams that focus on scientific computing and performance. I worked a year at Airbnb on the machine learning infrastructure team and I learned lots from my peers.
 
 If you have questions about what I wrote in my blog, don’t hesitate to shoot me a message at rayzhang@g.ucla.edu or just leave a comment on the blog. I’m just a human, so I make typos!
+
+
