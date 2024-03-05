@@ -12,8 +12,6 @@ profile:
   #   <p>123 your address street</p>
   #   <p>Your City, State 12345</p>
 
-latest_posts: true  # includes a list of the newest posts
-news: true  # includes a list of news items
 social: false  # includes social icons at the bottom of the page
 ---
  Hey! I'm a third year undergraduate student at Belgrade University. I believe that you don’t really know what you’re talking about unless you can present the information in a digestible and intuitive way. In order to ensure I really know the material I learned, I compile them in blogposts here. Some of these blogposts somehow got traction on reddit and hackernews, and has been translated in multiple languages. I’m thankful for the appreciative emails, and I’ve recently just added a comment functionality to my blog!
