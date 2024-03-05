@@ -6,142 +6,85 @@ description: "Here I'll list opportunities for young students interested in CS/m
 nav: true
 nav_order: 5
 ---
-<h3>High school students</h3>
-<table>
+
+<style>
+    .opportunities-table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+    .opportunities-table th, .opportunities-table td {
+        text-align: left;
+        padding: 8px;
+    }
+
+    .opportunities-table tr:nth-child(even) {
+        background-color: #f2f2f2;
+    }
+
+    .opportunity-link {
+        font-size: 14pt;
+        color: #007bff;
+        text-decoration: none;
+    }
+
+    .opportunity-link:hover {
+        text-decoration: underline;
+    }
+
+    .section-header {
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+</style>
+
+<h2>Opportunities for Young Students in CS/Maths</h2>
+<p>Here I'll list opportunities for young students interested in CS/maths internships and research. It is mainly aimed at Europeans.</p>
+
+<h3 class="section-header">High School Students</h3>
+<table class="opportunities-table">
 <tbody>
 <tr>
-    <td>
-        <br>
-    </td>
-    <td>
-    </td>
-    <td>
-        CERN S'Cool LAB style="font-size: 10pt; font-style: italic;"></span>
-    </td>
+    <td><a href="https://cernscool.web.cern.ch/" class="opportunity-link">CERN S'Cool LAB</a></td>
 </tr>
 <tr>
-    <td>
-        <br>
-    </td>
-    <td>
-    </td>
-    <td>
-       CERN S'Cool LAB <span style="font-size: 10pt; font-style: italic;"></span>
-    </td>
+    <td><a href="http://www.imperial.ac.uk/global-summer-school/" class="opportunity-link">Imperial Global Summer School</a></td>
 </tr>
 <tr>
-    <td>
-        <br>
-    </td>
-    <td>
-    </td>
-    <td>
-        Imperial Global Summer School  <span style="font-size: 10pt; font-style: italic;"></span>
-    </td>
+    <td><a href="https://mathsbeyondlimits.eu/" class="opportunity-link">Maths Beyond Limits</a></td>
 </tr>
 <tr>
-    <td>
-        <br>
-    </td>
-    <td>
-    </td>
-    <td>
-        Maths Beyond Limits  <span style="font-size: 10pt; font-style: italic;"></span>
-    </td>
+    <td><a href="https://www.maths.cam.ac.uk/women-maths-summer-school" class="opportunity-link">St John's, University of Cambridge: Women in Maths Summer School</a></td>
 </tr>
 <tr>
-    <td>
-        <br>
-    </td>
-    <td>
-    </td>
-    <td>
-        St John's, University of Cambridge: Women in Maths Summer School <span style="font-size: 10pt; font-style: italic;"></span>
-    </td>
-</tr>
-<tr>
-    <td>
-        <br>
-    </td>
-    <td>
-    </td>
-    <td>
-       Email researchers at universities and ask if they have a project for you. You're one email away to do something very cool!  <span style="font-size: 10pt; font-style: italic;"></span>
-    </td>
+    <td>Email researchers at universities and ask if they have a project for you. You're one email away from doing something very cool!</td>
 </tr>
 </tbody>
 </table>
 
-<br>
-<h3> Undergraduate students</h3>
-<table>
+<h3 class="section-header">Undergraduate Students</h3>
+<table class="opportunities-table">
 <tbody>
 <tr>
-    <td>
-        <br>
-    </td>
-    <td>
-        Philippa Fawcett Internship Programme, funded mathematics research internship at the University of Cambridge. I made a vlog about my stay which you can watch here. I also made a video about how I got my internship here. <span style="font-size: 10pt; font-style: italic;"></span>
-    </td>
+    <td><a href="https://www.maths.cam.ac.uk/undergrad/admissions/summer-internships" class="opportunity-link">Philippa Fawcett Internship Programme at the University of Cambridge</a></td>
 </tr>
 <tr>
-    <td>
-        <br>
-    </td>
-    <td>
-      European Women in Mathematics <span style="font-size: 10pt; font-style: italic;">taught by Andrew Yarmola, Kenneth Ascher</span>
-    </td>
+    <td><a href="https://www.europeanwomeninmaths.org/" class="opportunity-link">European Women in Mathematics</a></td>
 </tr>
 <tr>
-    <td>
-        <br>
-    </td>
-    <td>
-      CERN Summer Student Programme <span style="font-size: 10pt; font-style: italic;">taught by Sun-yung Chang</span>
-    </td>
+    <td><a href="https://summer-student.web.cern.ch/" class="opportunity-link">CERN Summer Student Programme</a></td>
 </tr>
 <tr>
-    <td>
-        <br>
-    </td>
-    <td>
-      Oxford Summer Internships <span style="font-size: 10pt; font-style: italic;">taught by Lue Pan</span>
-    </td>
+    <td><a href="https://www.maths.ox.ac.uk/study-here/undergraduate-study/internships" class="opportunity-link">Oxford Summer Internships</a></td>
 </tr>
 <tr>
-    <td>
-        <br>
-    </td>
-    <td>
-        <span style="font-weight: bold;">mat478&nbsp;&nbsp;</span>
-    </td>
-    <td>
-       ESA Student Internships <span style="font-size: 10pt; font-style: italic;">taught by Alon Noga</span>
-    </td>
+    <td><a href="https://www.esa.int/Education/ESA_Academy/Student_Internships" class="opportunity-link">ESA Student Internships</a></td>
 </tr>
 <tr>
-    <td>
-        <br>
-    </td>
-    <td>
-       DAAD: RISE Germany <span style="font-size: 10pt; font-style: italic;">taught by Ramon van Handel</span>
-    </td>
+    <td><a href="https://www.daad.de/rise/en/rise-germany/" class="opportunity-link">DAAD: RISE Germany</a></td>
 </tr>
 <tr>
-    <td>
-        <br>
-    </td>
-    <td>
-      UCL Summer School <span style="font-size: 10pt; font-style: italic;">taught by Elizabeth Rebrova</span>
-    </td>
-</tr>
-<tr>
-    <td>
-        <br>
-    </td>
-    <td>
-        Topics in Probability: Probability in High Dimension <span style="font-size: 10pt; font-style: italic;">taught by Ramon van Handel</span>
-    </td>
+    <td><a href="https://www.ucl.ac.uk/prospective-students/international/ucl-summer-school" class="opportunity-link">UCL Summer School</a></td>
 </tr>
 </tbody>
 </table>
