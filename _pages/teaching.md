@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /opportunities/
-title: opportunities
-description: "Here I'll list opportunities for young students interested in CS/maths internships and research. It is mainly aimed at Europeans. Last updated: 1st October 2023"
+title: 
+description: 
 nav: true
 nav_order: 5
 ---
@@ -39,7 +39,7 @@ nav_order: 5
 </style>
 
 <h2>Opportunities for Young Students in CS/Maths</h2>
-<p>Here I'll list opportunities for young students interested in CS/maths internships and research. It is mainly aimed at Europeans.</p>
+<p>Here I'll list opportunities for young students interested in CS/maths internships and research. It is mainly aimed at Europeans Last updated: 1st October 2023".</p>
 
 <h3 class="section-header">High School Students</h3>
 <table class="opportunities-table">
