@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /opportunities/
+permalink: /coursework/
 title: opportunities
 description: 
 nav: true
