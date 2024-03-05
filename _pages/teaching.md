@@ -2,7 +2,7 @@
 layout: page
 permalink: /coursework/
 title: opportunities
-description: Here I'll list opportunities for young students interested in CS/maths internships and research. It is mainly aimed at Europeans. Last updated: 1st October 2023
+description: "Here I'll list opportunities for young students interested in CS/maths internships and research. It is mainly aimed at Europeans. Last updated: 1st October 2023"
 nav: true
 nav_order: 5
 ---
