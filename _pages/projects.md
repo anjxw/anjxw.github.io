@@ -24,10 +24,6 @@ horizontal: false
 <li> 
         <a href=""></a> <a href=""><i class="fa fa-github" style="font-size:18px"></i></a>
 </li>
-<li>
-        <a href=""> 
-        Predicting Visual Futures with Image Captioning and Pre-Trained Language Models </a>  <a href="https://github.com/alexzhang13/image-gail"><i class="fa fa-github" style="font-size:18px"></i></a>
-</li>
 </ul>
         
 <h4>Math Stuff</h4>
