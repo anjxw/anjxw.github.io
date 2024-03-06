@@ -24,7 +24,7 @@ nav_order: 5
 
     .opportunity-link {
         font-size: 14pt;
-        color: #007bff;
+        color: #af31b5;
         text-decoration: none;
     }
 
