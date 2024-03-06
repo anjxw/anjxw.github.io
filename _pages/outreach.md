@@ -20,11 +20,13 @@ Career advices and lessons that I learned (harder way?)
 
 <h2>University Of Belgrade - Course Notes</h2>
 
-In my free time, I also contribute to the development of the SIwiki website, a Wikipedia for all faculty courses with a collection of materials such as lectures, exercises, exam solutions, and more. Project was introduced to make learning and collaboration easier. All project pages are publicly visible, and anyone from the ETF can contribute.
+In my free time, I also contribute to the development of the <b><a href="https://siwiki.rs/wiki/SI_Wiki">SI wiki</a> </b>, a Wikipedia for all faculty courses with a collection of materials such as lectures, exercises, exam solutions and more. Project was introduced to make learning and collaboration easier. All project pages are publicly visible, and anyone from the faculty can contribute.
 
-Currently, we have 156 users and maintain 405 pages of exams, 73 pages of lab exercises, and 57 pages of course materials. Down belowe you can find my personal notes for some courses:
+Currently, we maintain 405 pages of exams, 73 pages of lab exercises, and 57 pages of course materials. 
 
-Disclaimer: These notes are written in their entirety by me while attending lectures at the University of Blegrade. They are provided as is and free of charge. They may very contain errors and inaccuracies (if you do spot any discrepancies, I do appreciate a note). Enjoy!
+<h4>Down belowe you can find my personal notes for some courses:</h4>
+
+<b>Disclaimer</b>: These notes are written in their entirety by me while attending lectures at the University of Blegrade. They are provided as is and free of charge. They may very contain errors and inaccuracies (if you do spot any discrepancies, I do appreciate a note). Enjoy!
 
 Computer Arhitecture (CS 489/689)
 Notes
