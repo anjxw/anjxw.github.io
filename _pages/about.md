@@ -14,10 +14,11 @@ profile:
 
 social: false  # includes social icons at the bottom of the page
 ---
- Hey! I'm a third year undergraduate student at Belgrade University. I believe that you don’t really know what you’re talking about unless you can present the information in a digestible and intuitive way. In order to ensure I really know the material I learned, I compile them in blogposts here. Some of these blogposts somehow got traction on reddit and hackernews, and has been translated in multiple languages. I’m thankful for the appreciative emails, and I’ve recently just added a comment functionality to my blog!
+Hey, I am happy to e-meet you! I'm a third-year undergraduate student at the University of Belgrade, passionate about tech and engineering. While I enjoy learning and developing technical skills, I'm most excited about building cool projects! Currently, I am working on two of them.
 
- During past years I was honored with multiple awards and scholarships, including the Grace Hopper Celebration of Women in Computing, which is the world's largest gathering of women technologists.
-I've had the privilege of interning at like Google, Microsoft and J.P.Morgan. See my CV. In particular, I find these areas interesting to work with in the future:
+Previously, I interned at  <b>Google</b> and  <b>Microsoft </b> and was honored to receive multiple awards and scholarships, such as the <b><a href="">GHC Scholarship</a> </b>for Women in Computing. Additionally, I managed to secure a place at <b><a href="https://www.oxfordml.school/">OxML 2023</a> </b> and <b><a href="https://www.lmh.ox.ac.uk/advanced-artificial-intelligence-and-machine-learning-natural-language-processing">Oxford Advanced AI and ML: Natural Language Processing</a></b>. See my b><a href="">CV</a></b> for more details.
 
-In my free time I decided to use internt to impact society especially Women and share the knowledge that I gained. Please see my Outreach page for more. I do inspirational lectures, workshops and academic talks. One example is titled “Studing physics when you feel stupid”. See my Outreach page for more.  
+As someone passionate about tech, I strive to <b>impact society</B> and <b>inspire others to explore tech </b>, especially women in STEM, through various <b>talks</b>, <b>mentoring events</b>, and <b>workshops</b> that I hold! One example is titled "Studying Physics When You Feel Stupid." Please see my <b><a href="">Outrage</a> </b> page for more!
+
+I also believe that having knowledge is invaluable unless you know how to share it with others! Over the past few years, I have been writing <b><a href="">blogs</a> </b>, mainly about <b>general CS </b> and <b>C++</b>. This has taught me how to present information in a digestible and intuitive way and share knowledge with others, as well as ensuring that I truly understand the material I've learned. Some of these blog posts have gained traction on Reddit and were published in editions on Medium.
 
