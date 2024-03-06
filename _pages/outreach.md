@@ -15,10 +15,10 @@ But it's not all about algorithms and code. I'm all about balance, sharing tips 
 For me, changing perceptions of the male-dominated industry starts with <b>visibility—having role models who show young women what's possible. </b>
 We need to ensure there are no misconceptions or stereotypes that make girls think they can't be (at least!) as good as men in these fields. By challenging these outdated ideas and highlighting the achievements of women, we can <b>inspire confidence in the next generation. </b> I've found fulfillment in mentoring, enhancing leadership skills, and networking, aspiring to be a role model for young women and empower them to flourish. <b>Through lectures, workshops, and social media collaborations, my goal is to inspire others to explore tech! </b>
 
-<h2>Career advices and lessons that I learned (harder way?) </h2>
+<h3>Career advices and lessons that I learned (harder way?) </h3>
 
 
-<h2>University Of Belgrade - Course Notes</h2>
+<h3>University Of Belgrade - Course Notes</h3>
 
 In my free time, I also contribute to the development of the <b><a href="https://siwiki.rs/wiki/SI_Wiki">SI wiki</a> </b>, a Wikipedia for all faculty courses with a collection of materials such as lectures, exercises, exam solutions and more. Project was introduced to make learning and collaboration easier. All project pages are publicly visible, and anyone from the faculty can contribute.
 
