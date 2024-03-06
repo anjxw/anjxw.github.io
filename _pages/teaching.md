@@ -19,7 +19,7 @@ nav_order: 5
     }
 
     .opportunities-table tr:nth-child(even) {
-        background-color: #f2f2f2;
+        background-color: ##af31b5;
     }
 
     .opportunity-link {
