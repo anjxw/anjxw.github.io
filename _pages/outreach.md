@@ -18,6 +18,36 @@ We need to ensure there are no misconceptions or stereotypes that make girls thi
 Career advices and lessons that I learned (harder way?)
 
 
-University Of Belgrade - notes, tutorials and many more
+University Of Belgrade - Course Notes
 
-In my free time I am also contibutin to the development of siwiki website which is wikpedia for all courses and opportunities for Students at Univeristy of Belgrade.
+In my free time, I also contribute to the development of the SIwiki website, a Wikipedia for all faculty courses with a collection of materials such as lectures, exercises, exam solutions, and more. Project was introduced to make learning and collaboration easier. All project pages are publicly visible, and anyone from the ETF can contribute.
+
+Currently, we have 156 users and maintain 405 pages of exams, 73 pages of lab exercises, and 57 pages of course materials. Down belowe you can find my personal notes for some courses:
+
+Disclaimer: These notes are written in their entirety by me while attending lectures at the University of Blegrade. They are provided as is and free of charge. They may very contain errors and inaccuracies (if you do spot any discrepancies, I do appreciate a note). Enjoy!
+
+Computer Arhitecture (CS 489/689)
+Notes
+
+Networks (CS 489/689)
+Notes
+
+Operatingsystems (CS 489/689)
+Notes
+
+Databases 2 (CS 489/689)
+Notes
+
+Algorithms and Datastructures 2 (CS 489/689)
+Notes
+
+Object Oriented Programing - C++ (CS 489/689)
+Notes
+
+Object Oriented Programing - Java (CS 489/689)
+Notes
+
+Neural Networks (CS 489/689)
+Notes
+
+
