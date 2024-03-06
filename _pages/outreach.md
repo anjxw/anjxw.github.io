@@ -28,28 +28,30 @@ Currently, we maintain 405 pages of exams, 73 pages of lab exercises, and 57 pag
 
 <b>Disclaimer</b>: These notes are written in their entirety by me while attending lectures at the University of Blegrade. They are provided as is and free of charge. They may very contain errors and inaccuracies (if you do spot any discrepancies, I do appreciate a note). Enjoy!
 
-Computer Arhitecture (CS 489/689)
-Notes
+Computer Arhitecture (13S112AR)
+<b><a href="">Notes</a></b>
 
-Networks (CS 489/689)
-Notes
+Networks (13S112RM1)
+<b><a href="">Notes</a></b>
 
-Operatingsystems (CS 489/689)
-Notes
+Operating Systems (13S112OS1)
+<b><a href="">Notes</a></b>
 
-Databases 2 (CS 489/689)
-Notes
+Databases 2 (13S113BP2)
+<b><a href="">Notes</a></b>
 
-Algorithms and Datastructures 2 (CS 489/689)
-Notes
+Algorithms and Datastructures 2 (13S112ASP2)
+<b><a href="">Notes</a></b>
 
-Object Oriented Programing - C++ (CS 489/689)
-Notes
+Object Oriented Programing - C++ (13S112OO1)
+<b><a href="">Notes</a></b>
 
-Object Oriented Programing - Java (CS 489/689)
-Notes
+Object Oriented Programing - Java (13S112OO2)
+<b><a href="">Notes</a></b>
 
-Neural Networks (CS 489/689)
-Notes
+Neural Networks (13S053NM)
+<b><a href="">Notes</a></b>
+
+
 
 
