@@ -56,7 +56,7 @@ nav_order: 5
     <td><a href="https://www.maths.cam.ac.uk/women-maths-summer-school" class="opportunity-link">St John's, University of Cambridge: Women in Maths Summer School</a></td>
 </tr>
 <tr>
-    <td>Email researchers at universities and ask if they have a project for you. You're one email away from doing something very cool!</td>
+    <td> <b>Email researchers at universities and ask if they have a project for you. You're one email away from doing something very cool!</b></td>
 </tr>
 </tbody>
 </table>
