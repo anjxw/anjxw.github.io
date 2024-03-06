@@ -18,7 +18,7 @@ We need to ensure there are no misconceptions or stereotypes that make girls thi
 Career advices and lessons that I learned (harder way?)
 
 
-University Of Belgrade - Course Notes
+<h2>University Of Belgrade - Course Notes</h2>
 
 In my free time, I also contribute to the development of the SIwiki website, a Wikipedia for all faculty courses with a collection of materials such as lectures, exercises, exam solutions, and more. Project was introduced to make learning and collaboration easier. All project pages are publicly visible, and anyone from the ETF can contribute.
 
