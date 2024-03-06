@@ -15,7 +15,7 @@ But it's not all about algorithms and code. I'm all about balance, sharing tips 
 For me, changing perceptions of the male-dominated industry starts with <b>visibility—having role models who show young women what's possible. </b>
 We need to ensure there are no misconceptions or stereotypes that make girls think they can't be (at least!) as good as men in these fields. By challenging these outdated ideas and highlighting the achievements of women, we can <b>inspire confidence in the next generation. </b> I've found fulfillment in mentoring, enhancing leadership skills, and networking, aspiring to be a role model for young women and empower them to flourish. <b>Through lectures, workshops, and social media collaborations, my goal is to inspire others to explore tech! </b>
 
-Career advices and lessons that I learned (harder way?)
+<h2>Career advices and lessons that I learned (harder way?) </h2>h2>
 
 
 <h2>University Of Belgrade - Course Notes</h2>
