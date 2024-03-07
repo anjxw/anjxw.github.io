@@ -22,5 +22,5 @@ As someone passionate about tech, I strive to <b>impact society</B> and <b>inspi
 
 I believe that having knowledge is not valuable unless you know how to share it with others! Over the past few years, I have been writing <b><a href="">blogs</a> </b>, mainly about <b><a href="">general CS</a> </b> and <b><a href="">C++</a></b>. This has taught me how to present information in a digestible and intuitive way and share knowledge with others while ensuring that I truly understod the material I've learned. Some of these blog posts have gained traction on Reddit and were published in editions on Medium.
 
-My hobbies include playing board games, riding my bike, running, bouldering, traveling... I enjoy these even more in the wonderful company!  Take a look at my  gallerie. I’m always open to collaborating with others, so feel free to get in touch! :)
+In my spare time, I enjoy playing board games and doing sports (mostly running and cycling), traveling,  bouldering and going on hikes with friends and family. :)
 
