@@ -11,7 +11,7 @@ profile:
   #   <p>123 your address street</p>
   #   <p>Your City, State 12345</p>
 
-social: false  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 Hey, thanks for stopping by! 👋 <br> <br>
 I'm a undergraduate student at the University of Belgrade. As aspiring Softwae Engineer, I’m broadly interested in all aspects of , and particularly in . <b><a href="">projects</a></b>!
