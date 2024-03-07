@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 3th Year Undergrad @ Belgrade University •  Intern: Google / Microsoft  •  learn ⇄ imagine ⇆ build
+subtitle: "3th Year Undergrad @ Belgrade University •  Intern: Google / Microsoft  •  learn ⇄ imagine ⇆ build"
 profile:
   align: right
   image: avatar.png
