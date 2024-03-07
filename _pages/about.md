@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 3th Year Undergrad at Belgrade University
+subtitle: 3th Year Undergrad @ Belgrade University •  Intern: Google / Microsoft  •  learn ⇄ imagine ⇆ build
 profile:
   align: right
   image: avatar.png
@@ -14,7 +14,8 @@ profile:
 
 social: false  # includes social icons at the bottom of the page
 ---
-Hey, I am happy to e-meet you! I'm a third-year undergraduate student at the University of Belgrade, passionate about programming. While I enjoy learning and developing technical skills, I'm most excited about building <b><a href="">projects</a></b>!
+Hey, thanks for stopping by! 👋
+I'm a third-year undergraduate student at the University of Belgrade, passionate about programming. While I enjoy learning and developing technical skills, I'm most excited about building <b><a href="">projects</a></b>!
 
 Previously, I interned at <b><a href="https://about.google/">Google</a></b> and <b><a href="https://www.microsoft.com/en-us/about">Microsoft</a></b> and I have received multiple awards and scholarships such as the <b><a href="">GHC Scholarship</a> </b> to attend GHC, the world’s largest gathering of women in tech. Additionally, I was selected for <b><a href="https://www.oxfordml.school/">OxML 2023</a> </b> and <b><a href="https://www.lmh.ox.ac.uk/advanced-artificial-intelligence-and-machine-learning-natural-language-processing">Oxford Advanced AI and ML: Natural Language Processing</a></b> summer schools where I learned about advanced ML topics and  met speakers from <b> MIT Media Lab</b>, <b>Google</b>, <b>Watson AI</b> and more. See my <b><a href="">CV</a></b> for more details and <b><a href="">opportunities</a></b> page if you're looking for help finding the internship or advice. You can also reach out to me direclty!
 
