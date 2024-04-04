@@ -85,5 +85,28 @@ nav_order: 5
 <tr>
     <td><a href="https://www.ucl.ac.uk/prospective-students/international/ucl-summer-school" class="opportunity-link">UCL Summer School</a></td>
 </tr>
+    <tr>
+    <td><a href="https://careers.microsoft.com/v2/global/en/universityinternship" class="opportunity-link">Microsoft</a></td>
+</tr>
+
+<tr>
+    <td><a href="https://www.nutanix.com/company/careers/university-recruiting" class="opportunity-link">Nutanix</a></td>
+</tr>
+
+<tr>
+    <td><a href="https://www.databricks.com/company/careers/university-recruiting" class="opportunity-link">Databricks</a></td>
+</tr>
+<tr>
+    <td><a href="https://nordeus.com/careers/early_talent_program/2519471/" class="opportunity-link">Nordues</a></td>
+</tr>
+<tr>
+    <td><a href="https://buildyourfuture.withgoogle.com/internships" class="opportunity-link">Google</a></td>
+</tr>
+<tr>
+    <td><a href="https://www.amazon.jobs/en-gb/teams/internships-for-students" class="opportunity-link">Amazon</a></td>
+</tr>
+<tr>
+    <td><a href="https://jobs.bendingspoons.com/positions/5bf67a3d29f2cb026be41a41" class="opportunity-link">Bending Spoons</a></td>
+</tr>
 </tbody>
 </table>
