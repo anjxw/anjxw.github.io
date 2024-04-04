@@ -15,6 +15,7 @@ pagination:
     before: 1 # The number of links before the current page
     after: 3  # The number of links after the current page
 ---
+Link to my Medium Blog:  <a href="https://medium.com/@anja119">https://medium.com/@anja119</a>
 
 <div class="post">
 
