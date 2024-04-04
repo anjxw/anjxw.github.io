@@ -16,7 +16,7 @@ horizontal: false
 <h4>AI/ML</h4>
 <ul>
 <li> 
-        <a href="https://github.com/anjaa7/Graph-Neural-Networks-for-Molecular-Propery-Prediction---JAX/blob/main/GraduationProject.pdf"</a> Graph-Neural-Networks-for-Molecular-Propery-Prediction <a href=""><i class="fa fa-github" style="font-size:18px"></i></a>
+
 </li>
 <li> 
         <a href=""></a> <a href=""><i class="fa fa-github" style="font-size:18px"></i></a>
